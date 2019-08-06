@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultTarget
   Version="2"
   Comment="MadCap HTML5 Target"
@@ -13,4 +13,9 @@
     GenerateTOCProxy="true"
     GenerateIndexProxy="true"
     GenerateGlossaryProxy="true" />
+  <Destinations>
+    <Destination
+      Link="/Project/Destinations/NewDestination2.fldes"
+      Publish="true" />
+  </Destinations>
 </CatapultTarget>
